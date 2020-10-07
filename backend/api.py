@@ -1,4 +1,4 @@
-ั# Fast Api App
+# Fast Api App
 
 ## requirements
 
