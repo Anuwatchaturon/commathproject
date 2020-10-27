@@ -40,32 +40,32 @@ function Navbar() {
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li className='nav-item'>
             <Link to='/' className='nav-links' onClick={closeMobileMenu}>
-              บทที่ 1
+            Basic Computing
             </Link>
           </li>
           <li className='nav-item'>
             <Link to='/page2' className='nav-links'  onClick={closeMobileMenu}>
-              บทที่ 2
+            Linear Equations
             </Link>
           </li>
           <li className='nav-item'>
             <Link to='/page3' className='nav-links' onClick={closeMobileMenu}>
-              บทที่ 3
+            Interpolation
             </Link>
           </li>
           <li className='nav-item'>
             <Link to='/page4' className='nav-links' onClick={closeMobileMenu}>
-              บทที่ 4
+            Differentiation
             </Link>
           </li>
           <li className='nav-item'>
             <Link to='/page5' className='nav-links' onClick={closeMobileMenu}>
-              บทที่ 5
+            Integration
             </Link>
           </li>
           <li className='nav-item'>
             <Link to='/page6' className='nav-links' onClick={closeMobileMenu}>
-              บทที่ 6
+            Root-finding
             </Link>
           </li>
             

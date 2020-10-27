@@ -6,7 +6,7 @@ export default function Home() {
     <>
  
       <form class="Appform2"align="center"> 
-      <h2 className="head2" align="center">บทที่ 2</h2>
+      <h2 className="head2" align="center">บทที่ 2 Linear Equations</h2>
         <p><label class="w3-text-dark-gray"><b>Input</b></label> </p>
         <p><input class="w3-input w3-border w3-Azure" align="center" type="text" ></input></p>
         <p><button class="w3-btn w3-red">Summit</button></p>
