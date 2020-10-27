@@ -34,12 +34,15 @@ app = FastAPI() # FlaskApp()
 #broker_cfg = {'AMQP_URI': "amqp://guest:guest@rabbitmq"}
 origins = [
     "*",
-    "http://localhost:3000/b2s",
-    "http://localhost:3000/elimination",
-    "http://localhost:3000/interpolation",
-    "http://localhost:3000/differentiation",
-    "http://localhost:3000/integration",
-    "http://localhost:3000/root-finding"
+    "http://localhost",
+    "http://localhost:80",
+    "http://localhost:8000",
+    "http://localhost:8000/b2s",
+    "http://localhost:8000/elimination",
+    "http://localhost:8000/interpolation",
+    "http://localhost:8000/differentiation",
+    "http://localhost:8000/integration",
+    "http://localhost:8000/root-finding"
 
 ]
 
