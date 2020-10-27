@@ -39,32 +39,32 @@ function Navbar() {
         </div>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li className='nav-item'>
-            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/b2s' className='nav-links' onClick={closeMobileMenu}>
             Basic Computing
             </Link>
           </li>
           <li className='nav-item'>
-            <Link to='/page2' className='nav-links'  onClick={closeMobileMenu}>
+            <Link to='/elimination' className='nav-links'  onClick={closeMobileMenu}>
             Linear Equations
             </Link>
           </li>
           <li className='nav-item'>
-            <Link to='/page3' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/interpolation' className='nav-links' onClick={closeMobileMenu}>
             Interpolation
             </Link>
           </li>
           <li className='nav-item'>
-            <Link to='/page4' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/differentiation' className='nav-links' onClick={closeMobileMenu}>
             Differentiation
             </Link>
           </li>
           <li className='nav-item'>
-            <Link to='/page5' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/integration' className='nav-links' onClick={closeMobileMenu}>
             Integration
             </Link>
           </li>
           <li className='nav-item'>
-            <Link to='/page6' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/root-finding' className='nav-links' onClick={closeMobileMenu}>
             Root-finding
             </Link>
           </li>

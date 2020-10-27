@@ -28,7 +28,7 @@
 }
 
 .page1{
-  height: 427px;
+  height: 507px;
   background: rgba(255, 191, 0, 0.664);
   color: rgb(0, 0, 0);
   font-size: 15px;
@@ -65,7 +65,7 @@
 } 
 
 .page6{
-  height: 427px;
+  height: 372px;
   background: rgba(73, 197, 73, 0.664);
   color: rgb(0, 0, 0);
   font-size: 15px;
@@ -83,10 +83,10 @@
   color: rgb(0, 0, 0);
   background: rgb(55, 188, 250);
   font-size: 15px;
-  height: 330px;
+  height: 290px;
   width: 100vw;
   text-align:'center';
-  padding: 3rem 10rem;
+  padding: 1.5rem 35rem;
 }
 .head1{
   background-position: center;
@@ -103,10 +103,10 @@
   color: rgb(0, 0, 0);
   background: rgb(72, 121, 255);
   font-size: 15px;
-  height: 330px;
+  height: 550px;
   width: 100vw;
   text-align:'center';
-  padding: 3rem 10rem;
+  padding: 1.5rem 10rem;
 
 }
 .head2{
@@ -117,6 +117,10 @@
   text-align:'left';
   padding: 0.5rem 5rem;
 }  
+.size2{
+  background-position: center;
+  padding: 1rem 30rem;
+}  
 .Appform3{
   background-position: center;
   background-size: cover;
@@ -124,10 +128,10 @@
   color: rgb(0, 0, 0);
   background: rgb(157, 255, 92);
   font-size: 15px;
-  height: 330px;
+  height: 480px;
   width: 100vw;
   text-align:'center';
-  padding: 3rem 10rem;
+  padding: 1.5rem 10rem;
 }
 
 .head3{
@@ -138,6 +142,10 @@
   text-align:'left';
   padding: 0.5rem 5rem;
 }  
+.size3{
+  background-position: center;
+  padding: 0.5rem 35rem;
+}  
 
 .Appform4{
   background-position: center;
@@ -146,10 +154,10 @@
   color: rgb(0, 0, 0);
   background: rgb(210, 180, 140);
   font-size: 15px;
-  height: 330px;
+  height: 400px;
   width: 100vw;
   text-align:'center';
-  padding: 3rem 10rem;
+  padding: 1.5rem 10rem;
 }
 .head4{
   background-position: center;
@@ -167,10 +175,10 @@
   color: rgb(0, 0, 0);
   background: rgb(252, 171, 90);
   font-size: 15px;
-  height: 330px;
+  height: 450px;
   width: 100vw;
   text-align:'center';
-  padding: 3rem 10rem;
+  padding: 1.5rem 10rem;
 }
 .head5{
   background-position: center;
@@ -180,7 +188,10 @@
   text-align:'left';
   padding: 0.5rem 5rem;
 }  
-
+.size5{
+  background-position: center;
+  padding: 0.5rem 35rem;
+}  
 .Appform6{
   background-position: center;
   background-size: cover;
@@ -188,10 +199,10 @@
   color: rgb(0, 0, 0);
   background: rgb(116, 116, 116);
   font-size: 15px;
-  height: 330px;
+  height: 620px;
   width: 100vw;
   text-align:'center';
-  padding: 3rem 10rem;
+  padding: 1.5rem 10rem;
 }
 .head6{
   background-position: center;
@@ -200,6 +211,11 @@
   background: rgb(116, 116, 116);
   text-align:'left';
   padding: 0.5rem 5rem;
+}  
+
+.size6{
+  background-position: center;
+  padding: 0.5rem 35rem;
 }  
 .inform{
   height: 300px;
