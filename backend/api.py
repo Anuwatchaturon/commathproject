@@ -15,12 +15,10 @@ class Student(BaseModel):
 app = FastAPI() # FlaskApp()
 class Body(BaseModel):
     bitstring : str
-
-
-
+    
 @app.get("/")
 def hello():
-    return {"Hello": "World"}
+    #return {"Hello": "World."}
 
 @app.get("/b2s/{b}")
 async def read_item(b):
